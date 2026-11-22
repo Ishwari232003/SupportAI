@@ -1,0 +1,15 @@
+REFUND ESCALATION PROCEDURE
+
+Policy Name: Refund Escalation Procedure
+Version: 1
+Effective Date: 2025-06-01
+Document Type: Escalation Procedure
+
+1. Trigger
+A refund is pending for more than 7 business days.
+
+2. Actions
+1. Check the refund delay reason: Bank processing delay, Return QC pending or Payment gateway failure.
+2. For Return QC pending, ask the Warehouse Manager to complete QC in 24 hours.
+3. For Payment gateway failure, ask the Refunds team to re-initiate the refund.
+4. If still unresolved after 15 calendar days, escalate to the Operations Manager.

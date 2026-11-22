@@ -1,0 +1,15 @@
+CASH ON DELIVERY POLICY
+
+Policy Name: Cash on Delivery Policy
+Version: 1
+Effective Date: 2025-06-01
+Document Type: Payment Policy
+
+1. COD Availability
+COD is available for orders up to Rs 50,000 in serviceable pin codes.
+
+2. Refunds for COD
+COD refunds are paid to a verified bank account within 10 business days of QC.
+
+3. COD Fraud Prevention
+Customers with 3 or more refused COD deliveries lose COD access.

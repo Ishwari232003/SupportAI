@@ -1,0 +1,27 @@
+HOME PRODUCTS WARRANTY POLICY
+
+Policy Name: Home Products Warranty Policy
+Version: 1
+Effective Date: 2025-06-01
+Document Type: Warranty Document
+
+1. Warranty Period
+Home products carry a manufacturer warranty of 6 months from the date of delivery.
+
+2. What Is Covered
+Manufacturing defects and component failures under normal use. Repair or replacement is at the discretion of the authorized service center.
+
+3. What Is Not Covered
+Physical or liquid damage, unauthorized repairs, misuse, normal wear and tear, and damage caused by power surges.
+
+4. How to Claim Warranty
+1. Keep the invoice and the order ID.
+2. Raise a support ticket with the subject Warranty claim.
+3. The agent verifies the delivery date and warranty period in the order record.
+4. The customer is directed to an authorized service center or a replacement is arranged.
+
+5. Product-Specific Notes
+Home products carry a 6-month warranty. Cosmetic wear is excluded.
+
+6. Warranty vs Return
+Warranty is separate from the return window. The return window for Home is 15 days from delivery; after that, only warranty claims apply.

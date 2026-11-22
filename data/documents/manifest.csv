@@ -1,0 +1,56 @@
+file,format,doc_type,policy_name,version,effective_date,is_active,product_category,region,customer_type,seller,warehouse,order_status
+return_policy_v4.pdf,pdf,Return Policy,Return Policy,4,2024-01-01,False,all,all,all,all,all,all
+return_policy_v6.pdf,pdf,Return Policy,Return Policy,6,2025-06-01,True,all,all,all,all,all,all
+refund_policy_v1.docx,docx,Refund Policy,Refund Policy,1,2024-01-01,False,all,all,all,all,all,all
+refund_policy_v2.pdf,pdf,Refund Policy,Refund Policy,2,2025-06-01,True,all,all,all,all,all,all
+warranty_electronics.docx,docx,Warranty Document,Electronics Warranty Policy,1,2025-06-01,True,Electronics,all,all,all,all,all
+warranty_appliances.pdf,pdf,Warranty Document,Appliances Warranty Policy,1,2025-06-01,True,Appliances,all,all,all,all,all
+warranty_home.txt,txt,Warranty Document,Home Products Warranty Policy,1,2025-06-01,True,Home,all,all,all,all,all
+warranty_matrix.xlsx,xlsx,Warranty Document,Warranty and Return Window Matrix,1,2025-06-01,True,all,all,all,all,all,all
+shipping_guidelines.pdf,pdf,Shipping Guidelines,Shipping and Delivery Guidelines,1,2025-06-01,True,all,all,all,all,all,all
+shipping_regional_sla.csv,csv,Shipping Guidelines,Regional Delivery SLA,1,2025-06-01,True,all,all,all,all,all,all
+courier_partners.xlsx,xlsx,Shipping Guidelines,Courier Partner Directory,1,2025-06-01,True,all,all,all,all,all,all
+shipping_delay_handling.txt,txt,Shipping Guidelines,Delayed Shipment Handling Guide,1,2025-06-01,True,all,South,all,all,all,shipped
+manual_product_abc.pdf,pdf,Product Manual,Product ABC User Manual,1,2025-06-01,True,Appliances,all,all,SEL-001,all,all
+manual_product_x.pdf,pdf,Product Manual,Product X User Manual,1,2025-06-01,True,Electronics,all,all,SEL-002,all,all
+manual_electronics_care_guide.docx,docx,Product Manual,Electronics Category Care and Usage Guide,1,2025-06-01,True,Electronics,all,all,all,all,all
+manual_appliances_care_guide.docx,docx,Product Manual,Appliances Category Care and Usage Guide,1,2025-06-01,True,Appliances,all,all,all,all,all
+manual_home_care_guide.docx,docx,Product Manual,Home Category Care and Usage Guide,1,2025-06-01,True,Home,all,all,all,all,all
+manual_fashion_care_guide.docx,docx,Product Manual,Fashion Category Care and Usage Guide,1,2025-06-01,True,Fashion,all,all,all,all,all
+faq_electronics.txt,txt,Product FAQ,Electronics Product FAQ,1,2025-06-01,True,Electronics,all,all,all,all,all
+faq_appliances.txt,txt,Product FAQ,Appliances Product FAQ,1,2025-06-01,True,Appliances,all,all,all,all,all
+faq_fashion.txt,txt,Product FAQ,Fashion Product FAQ,1,2025-06-01,True,Fashion,all,all,all,all,all
+faq_home.csv,csv,Product FAQ,Home Product FAQ,1,2025-06-01,True,Home,all,all,all,all,all
+faq_beauty.csv,csv,Product FAQ,Beauty Product FAQ,1,2025-06-01,True,Beauty,all,all,all,all,all
+faq_books.xlsx,xlsx,Product FAQ,Books Product FAQ,1,2025-06-01,True,Books,all,all,all,all,all
+seller_onboarding.docx,docx,Seller Guidelines,Seller Onboarding Guide,1,2025-06-01,True,all,all,all,all,all,all
+seller_listing_standards.pdf,pdf,Seller Guidelines,Seller Listing Standards,1,2025-06-01,True,all,all,all,all,all,all
+seller_payouts_penalties.txt,txt,Seller Guidelines,Seller Payouts and Penalties,1,2025-06-01,True,all,all,all,all,all,all
+seller_order_approval_workflow.docx,docx,Seller Guidelines,Seller Order Approval Workflow,1,2025-06-01,True,all,all,all,all,all,pending_seller_approval
+marketplace_prohibited_items.txt,txt,Marketplace Policy,Prohibited Items Policy,1,2025-06-01,True,all,all,all,all,all,all
+marketplace_counterfeit_policy.pdf,pdf,Marketplace Policy,Counterfeit and Brand Protection Policy,1,2025-06-01,True,all,all,all,all,all,all
+marketplace_review_policy.docx,docx,Marketplace Policy,Reviews and Ratings Policy,1,2025-06-01,True,all,all,all,all,all,all
+marketplace_fair_pricing.txt,txt,Marketplace Policy,Fair Pricing Policy,1,2025-06-01,True,all,all,all,all,all,all
+payment_failure_reversal.pdf,pdf,Payment Policy,Payment Failure and Reversal Policy,1,2025-06-01,True,all,all,all,all,all,all
+payment_cod_policy.txt,txt,Payment Policy,Cash on Delivery Policy,1,2025-06-01,True,all,all,all,all,all,all
+escalation_matrix.xlsx,xlsx,Escalation Procedure,Escalation Matrix,1,2025-06-01,True,all,all,all,all,all,all
+escalation_sla_breach.pdf,pdf,Escalation Procedure,SLA Breach Escalation Procedure,1,2025-06-01,True,all,all,all,all,all,all
+escalation_refund_procedure.txt,txt,Escalation Procedure,Refund Escalation Procedure,1,2025-06-01,True,all,all,all,all,all,all
+troubleshoot_not_powering_on.txt,txt,Troubleshooting Guide,Product Not Powering On,1,2025-06-01,True,Electronics,all,all,all,all,all
+troubleshoot_delivery_stuck.pdf,pdf,Troubleshooting Guide,Delivery Stuck in Transit,1,2025-06-01,True,all,all,all,all,all,shipped
+troubleshoot_refund_not_received.docx,docx,Troubleshooting Guide,Refund Not Received,1,2025-06-01,True,all,all,all,all,all,all
+troubleshoot_payment_deducted.txt,txt,Troubleshooting Guide,Payment Deducted but Order Not Placed,1,2025-06-01,True,all,all,all,all,all,all
+troubleshoot_wrong_damaged_item.pdf,pdf,Troubleshooting Guide,Wrong or Damaged Item Received,1,2025-06-01,True,all,all,all,all,all,all
+troubleshoot_product_abc.docx,docx,Troubleshooting Guide,Product ABC Performance Issues,1,2025-06-01,True,Appliances,all,all,all,all,all
+templates_email_chat.xlsx,xlsx,Communication Template,Customer Communication Templates,1,2025-06-01,True,all,all,all,all,all,all
+templates_apology_letters.docx,docx,Communication Template,Apology and Escalation Letters,1,2025-06-01,True,all,all,all,all,all,all
+templates_quick_replies.txt,txt,Communication Template,Chat Quick Replies,1,2025-06-01,True,all,all,all,all,all,all
+sop_order_tracking.docx,docx,Customer Support SOP,SOP: Order Tracking and Status Lookup,1,2025-06-01,True,all,all,all,all,all,all
+sop_return_processing.pdf,pdf,Customer Support SOP,SOP: Return Processing,1,2025-06-01,True,all,all,all,all,all,all
+sop_refund_investigation.txt,txt,Customer Support SOP,SOP: Refund Investigation,1,2025-06-01,True,all,all,all,all,all,all
+sop_complaint_handling.docx,docx,Customer Support SOP,SOP: Complaint Handling,1,2025-06-01,True,all,all,all,all,all,all
+kb_south_region_delays.txt,txt,Knowledge Base Article,KB: Delayed Shipments in the South Region,1,2025-06-01,True,all,South,all,all,all,all
+kb_refund_delay_quick_reference.docx,docx,Knowledge Base Article,KB: Refund Delay Quick Reference,1,2025-06-01,True,all,all,all,all,all,all
+kb_warranty_vs_return.txt,txt,Knowledge Base Article,KB: Warranty vs Return - Which Applies?,1,2025-06-01,True,all,all,all,all,all,all
+training_new_agent.pdf,pdf,Training Manual,New Support Agent Training Manual,1,2025-06-01,True,all,all,all,all,all,all
+training_advanced_escalation.docx,docx,Training Manual,Advanced Support and Escalation Training,1,2025-06-01,True,all,all,all,all,all,all

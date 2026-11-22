@@ -1,0 +1,5 @@
+region,metro_sla_days,non_metro_sla_days,main_hubs,notes
+North,3,5,"Delhi Hub, Chandigarh Hub",Fog delays possible in winter
+South,3,6,"Bengaluru Hub, Chennai Hub, Hyderabad Hub",Higher congestion in monsoon; proactive delay alerts enabled
+East,4,6,"Kolkata Hub, Bhubaneswar Hub",Cyclone season delays possible
+West,3,5,"Mumbai Hub, Pune Hub, Ahmedabad Hub",Heavy rain delays possible

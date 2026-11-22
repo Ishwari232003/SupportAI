@@ -1,0 +1,15 @@
+SOP: REFUND INVESTIGATION
+
+Policy Name: SOP: Refund Investigation
+Version: 1
+Effective Date: 2025-06-01
+Document Type: Customer Support SOP
+
+1. Purpose
+Steps for customers whose refund is late.
+
+2. Steps
+1. Look up the refund record and status.
+2. Read the delay reason.
+3. Follow the action for that reason in the Refund Policy.
+4. Escalate if pending for more than 7 business days.

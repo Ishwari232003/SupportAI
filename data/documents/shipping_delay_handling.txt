@@ -1,0 +1,21 @@
+DELAYED SHIPMENT HANDLING GUIDE
+
+Policy Name: Delayed Shipment Handling Guide
+Version: 1
+Effective Date: 2025-06-01
+Document Type: Shipping Guidelines
+
+1. When a Shipment Is Delayed
+Status delayed means the expected date has passed. Check the delay reason in the shipment record.
+
+2. Agent Actions
+1. Tell the customer the reason and the new expected date.
+2. Contact the courier escalation contact if the delay exceeds 3 days.
+3. Raise a ticket for the Order Management Executive.
+
+3. Goodwill Rules
+- 3 or more days past the expected date: offer a goodwill coupon of Rs 100.
+- 7 or more days past the expected date: offer cancellation with a full refund.
+
+4. Region South Note
+South region has the highest delay rate. Hub congestion is the most common reason. Use the proactive delay message template.

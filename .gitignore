@@ -1,0 +1,46 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Logs
+*.log
+logs/
+
+# Generated databases and vector stores
+*.db
+*.sqlite
+*.sqlite3
+chroma_db/
+chroma/
+vectorstore/
+
+# Model and cache files
+.cache/
+huggingface_cache/
+
+# Frontend dependencies and builds
+node_modules/
+dist/
+dist-ssr/
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,57 @@
+
+[
+  {
+    "id": 1,
+    "question": "What is the warranty period for Product X?",
+    "expected_answer": "Product X has a 12-month warranty.",
+    "expected_sources": [
+      "warranty_electronics.docx",
+      "manual_product_x.pdf",
+      "troubleshoot_not_powering_on.txt",
+      "kb_warranty_vs_return.txt"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What is the return window for Product X?",
+    "expected_answer": "Product X can be returned within 10 days from delivery.",
+    "expected_sources": [
+      "manual_product_x.pdf",
+      "return_policy_v6.pdf",
+      "troubleshoot_not_powering_on.txt",
+      "kb_warranty_vs_return.txt",
+      "warranty_matrix.xlsx"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "What is the warranty period for Product ABC?",
+    "expected_answer": "Product ABC has a 24-month manufacturer warranty.",
+    "expected_sources": [
+      "manual_product_abc.pdf",
+      "troubleshoot_product_abc.docx",
+      "warranty_appliances.pdf",
+      "kb_warranty_vs_return.txt",
+      "warranty_matrix.xlsx"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "How can I track my refund?",
+    "expected_answer": "Check the refund record and status, identify the reason for delay, contact the bank if necessary, and escalate refunds pending for more than 7 business days.",
+    "expected_sources": [
+      "sop_refund_investigation.txt",
+      "kb_refund_delay_quick_reference.docx",
+      "troubleshoot_refund_not_received.docx"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "What is the warranty period for Home products?",
+    "expected_answer": "Home products have a 6-month warranty from the date of delivery.",
+    "expected_sources": [
+      "faq_home.csv",
+      "warranty_home.txt"
+    ]
+  }
+]

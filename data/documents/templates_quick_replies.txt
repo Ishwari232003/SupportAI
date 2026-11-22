@@ -1,0 +1,15 @@
+CHAT QUICK REPLIES
+
+Policy Name: Chat Quick Replies
+Version: 1
+Effective Date: 2025-06-01
+Document Type: Communication Template
+
+1. Greeting
+Hello, thanks for contacting support. May I have your order ID?
+
+2. Please Wait
+Thanks. I am checking this now and will respond in a minute.
+
+3. Closing
+Is there anything else I can help you with today?

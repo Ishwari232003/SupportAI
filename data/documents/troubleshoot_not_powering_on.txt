@@ -1,0 +1,17 @@
+PRODUCT NOT POWERING ON
+
+Policy Name: Product Not Powering On
+Version: 1
+Effective Date: 2025-06-01
+Document Type: Troubleshooting Guide
+
+1. Customer Steps
+1. Charge the device for 30 minutes using the original cable.
+2. Hold the power button for 10 seconds to reset.
+3. Try a different socket or cable.
+
+2. If It Still Fails
+Within the return window, raise a return with reason Defective. After the return window, raise a warranty claim.
+
+3. Example
+Product X: 10-day return window, 12-month warranty.

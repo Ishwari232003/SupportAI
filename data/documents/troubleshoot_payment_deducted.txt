@@ -1,0 +1,15 @@
+PAYMENT DEDUCTED BUT ORDER NOT PLACED
+
+Policy Name: Payment Deducted but Order Not Placed
+Version: 1
+Effective Date: 2025-06-01
+Document Type: Troubleshooting Guide
+
+1. Check
+Confirm the payment status in the order record.
+
+2. Action
+Tell the customer the amount is reversed automatically in 5 to 7 business days.
+
+3. Escalate
+If more than 7 business days have passed, escalate to the Team Lead.

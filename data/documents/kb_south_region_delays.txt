@@ -1,0 +1,15 @@
+KB: DELAYED SHIPMENTS IN THE SOUTH REGION
+
+Policy Name: KB: Delayed Shipments in the South Region
+Version: 1
+Effective Date: 2025-06-01
+Document Type: Knowledge Base Article
+
+1. Summary
+South region shows the highest share of delayed shipments.
+
+2. Main Causes
+Hub congestion, weather disruption (monsoon) and address issues.
+
+3. What Agents Should Do
+Use the proactive delay template and follow the Delayed Shipment Handling Guide.

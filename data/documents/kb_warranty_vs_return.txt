@@ -1,0 +1,13 @@
+KB: WARRANTY VS RETURN - WHICH APPLIES?
+
+Policy Name: KB: Warranty vs Return - Which Applies?
+Version: 1
+Effective Date: 2025-06-01
+Document Type: Knowledge Base Article
+
+1. Rule
+Use the return window first. After it closes, use warranty if the product has warranty.
+
+2. Examples
+- Product X: 10-day return window, 12-month warranty.
+- Product ABC: 7-day return window, 24-month warranty.
